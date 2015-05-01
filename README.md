@@ -1,0 +1,2 @@
+# Simplemanagementsys
+Management system
